@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://alighafari.com
+
+# Sitemaps
+Sitemap: https://alighafari.com/sitemap.xml
